@@ -2,8 +2,8 @@
 # Casks/notecal.rb. Generated per release by packaging/homebrew/update-cask.sh:
 # change this template, not the generated file.
 cask "notecal" do
-  version "1.0.0"
-  sha256 "cdb59cb7a815cea4dc64b492f084508e8c9a52bd24e0fc047edf6f2d380a071b"
+  version "1.0.1"
+  sha256 "adeb5f19bb910889fa2fae38416c320d9b2d5282857150f58fb76032d65961c0"
 
   url "https://github.com/troazz/notecal/releases/download/v#{version}/notecal_#{version}_universal.dmg"
   name "notecal"
